@@ -1,0 +1,11 @@
+[
+   {
+      "question":"Facendo una ricerca non trovo il paziente, perché?",
+      "answer":"La ricerca per nome è limitata alle accettazioni precedentemente inserite in StudioLAB, che contengano almeno un tampone rapido. Pazienti accettati con altri tipi di esami non sono visibili"
+   },
+   
+   {
+      "question":"Non riesco a leggere il codice a barre della provetta",
+      "answer":"Premi cancella in basso a destra e inserisci manualmente l'id campione che trovi sotto il barcode. Non usare il numero di accettazione ma l'id campione."
+   }
+]
